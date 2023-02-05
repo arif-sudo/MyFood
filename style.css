@@ -1,0 +1,26 @@
+.hero {
+    margin-top: 130px;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 35px;
+    height: 35px;
+    background-color: white;
+    color: black;
+
+}
+.box:hover {
+    background-color: black;
+    color: white;
+    
+}
+.mySpan1 {
+    font-size: 15px;
+
+}
+.mySpan2 {
+    font-size: 12px;
+}
